@@ -1,0 +1,23 @@
+.mainDiv{
+    width: 40%;
+    background-color:blue;
+    margin: auto;
+    padding: 24px;
+    justify-self: space-evenly;
+    border: crimson;
+}
+.mainInput{
+    
+    justify-content: space-evenly;
+    text-align: left;
+   
+}
+label{
+    text-align: left;
+}
+input{
+    text-align: left;
+}
+h1{
+    margin-left: 155px;
+}
