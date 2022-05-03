@@ -1,0 +1,444 @@
+.a{
+    margin-left: 4%;
+    }
+.b{
+    margin-left: 60%;
+
+}
+.c{
+    margin-left: 3%;
+
+}.q{
+    color: grey;
+    margin-left: 3%;
+}
+.d{
+    font-weight: bold;
+    margin-left: 8%;
+   
+    
+}
+.e{
+    color: #40BFFF;
+    font-weight: bold;
+    margin-left: 35%;
+}
+.f{
+    font-weight: bold;
+    margin-left: 4%;
+    font-size: large;
+}
+.g{
+    width: 100%;
+    background: #F6F7F8;
+    }
+.h{
+    color: #40BFFF;
+    margin-left: 42%;
+    font-weight: bold;
+}
+.i{
+    color: black;
+    margin-left: 0%;
+    font-weight: bold;
+}
+.j{
+    margin-left: 4%;
+    width: 16%;
+    background: #F6F7F8;
+    padding-left: 1%;
+    padding-top: 1%;
+    font-weight: bold;
+    
+}
+.k{
+    color: #40BFFF;
+    
+}
+.l{
+    width: 60%;
+    background: #40BFFF;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-left: 3%;
+    height: 10%;
+    
+}
+.m{
+    color: #F6F7F8;
+    padding-left: 5%;
+    font-size: xx-large;
+    margin-top:-12% ;
+}
+.n{
+    color: white;
+    padding-left: 5%;
+}
+.o{
+    display: flex;
+    
+}
+.p{
+    background: #F6F7F8;
+    width: 60%;
+    height: 20%;
+    margin-top: -3%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-left: 24%;
+    }
+    .dad{
+        margin-left: 5%;
+    }
+    .mom{
+        margin-left: 7%;
+    }
+    .sis{
+        margin-left: 90%;
+    }
+.pp{
+    margin-left: 70%;
+    color: grey;
+}
+.kk{
+    color: #40BFFF;
+    margin-left: 62%;
+}
+.cc{ 
+    margin-left: 68%; 
+    color: grey; 
+} 
+.aa{ 
+    margin-left: 67%; 
+    color: grey; 
+} 
+.dd{ 
+    margin-left: 58%; 
+    color: grey; 
+} 
+.bb{ 
+    margin-left: 62%; 
+    color: gray; 
+}
+.s{
+    font-weight: 100;
+}
+.r{
+    margin-left: 36%;
+    font-weight: 100;
+}
+.u{
+    width: 16%;
+
+    background: #F6F7F8;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight: bold;
+    margin-left: 4%;
+}
+.t{
+    position: absolute;
+    margin-top: -1%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border: 2px solid #006CFF;
+  background-color: #006CFF;
+}
+.v{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 2%;
+    border-radius: 50px;
+    height: 10px;
+    width: 10px;
+    border:2px solid #FC3E39;
+    background-color:  #FC3E39;
+}
+.w{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 4%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border:2px solid #171717;
+    background-color:  #171717;
+}
+.x{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 6%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border:2px solid #FFF600;
+    background-color:  #FFF600;
+}
+.y{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 8%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border:2px solid #FF00B4;
+    background-color:  #FF00B4;
+}
+.z{
+    position: absolute;
+    margin-top: -1%;
+    margin-left: 10%;
+  border-radius: 50px;
+  height: 10px;
+  width: 10px;
+  border:2px solid #EFDFDF;
+    background-color: #EFDFDF; 
+}
+    .kkk{
+        color: #40BFFF;
+        margin-left: 72%;
+}
+.bbb{ 
+    margin-left: 59%; 
+    color: gray; 
+}
+.ccc{ 
+    margin-left: 64%; 
+    color: grey; 
+} 
+.aaa{
+    
+    width: 17%;
+    background: #F6F7F8;
+    margin-left: 4%;
+}
+.ddd{
+    margin-left: 42%;
+}
+.img{
+    margin-left: 60%;
+    margin-top: -11%;
+}
+.shoe{
+    margin-left: 24%;
+    margin-top: -37%;
+}
+.pra{
+    color: #FFF600;
+    
+}
+.shoe1{
+    margin-left: 24%;
+    margin-top: -22%;
+}
+.adi{
+    font-weight: 500;
+    font-size: 24px;
+    font-style: normal;
+    font-family: 'Poppins';
+}
+.bl{
+    color: #40BFFF;
+    margin-left: 3%;
+}
+.co{
+   color:  #FB7181;
+   margin-left: 3%;
+}
+.maa{
+    background: #33A0FF;
+    width: 15%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 3%;
+}
+.aa1{
+    color: #06243f;
+    margin-left: 10%;
+}
+
+.line{
+    width: 40%;
+    margin-left: -1%;
+}
+.line1{
+    width: 70%;
+    margin-left: -0%;
+}
+.heart{
+    margin-left: 21%;
+    background: #33A0FF;
+    width: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 4%;
+}
+.purse{
+    
+        margin-left: 24%;
+        margin-top: -0%;
+    
+}
+.purse1{
+    margin-left: 24%;
+    margin-top: -20%;
+}
+.shoe4{
+    margin-left: 24%;
+}
+.aaaa{
+    
+    width: 65%;
+    height: 100%;
+    background: #F6F7F8;
+    margin-left: 24%;
+}
+.eee{
+    margin-left: 30%;
+    font-size: larger;
+}
+.fff{
+    margin-left: 4%;
+    font-size: larger;
+}
+.ggg{
+    background-color: #006CFF;
+    color: aliceblue;
+    margin-left: 4%;
+    font-size: larger;
+    }
+    .c2{
+        margin-left:15% ;
+        
+        font-weight: 500;
+        font-size: x-large;
+    }
+    .c1{
+        margin-top: 1%;
+        margin-left: 9%;
+    }
+    .c3{
+        margin-left: 45%;
+        margin-top: -10%;
+        font-weight: 500;
+        font-size: x-large;
+    }
+    .c4{
+        margin-left:45% ;
+        
+    }
+    .c5{
+        margin-left: 45%;
+        margin-top: 2%;
+        color: #223263;
+    }
+    .c6{
+        margin-left: 5%;
+        margin-top: 2%;
+        color: #33A0FF;
+    }
+    .c7{
+        margin-left: 75%;
+        margin-top: -9%;
+        font-size: x-large;
+        font-weight: 500;
+    }
+    .c8{
+        margin-left: 75%;
+    }
+    .v1{
+        margin-left: 10%;
+        margin-top: 10%;
+        font-size: larger;
+    }
+    .v2{
+        margin-top: 2%;
+        margin-left: 10%;
+    }
+    .v3{
+        margin-left: 35%;
+        margin-top: -10.5%;
+        font-size: larger;
+    }
+    .v4{
+        margin-top: 2%;
+        margin-left: 35%;
+    }
+    .v5{
+        margin-left: 55%;
+        margin-top: -10.5%;
+        font-size: larger;
+    }
+    .v6{
+        margin-top: 2%;
+        margin-left: 55%;
+    }
+    .v7{
+        margin-left: 78%;
+        margin-top: -10.5%;
+        font-size: larger;
+    }
+    .v8{
+        margin-top: 2%;
+        margin-left: 78%; 
+    }
+    .hr{
+        color: white;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .com{
+        color: #c1c1c4;
+        margin-left: 5%;
+    }
+    .westren{
+        background-color:transparent;
+        color: #0f1011;
+        margin-left: 60%;
+        margin-top: -2%;
+    }
+    .master{
+        margin-left: 68%;
+        margin-top: -4%;
+    }
+    .paypal{
+        margin-left: 75%;
+        margin-top: -3.5%;
+    }
+    .visa{
+        margin-top: -3.5%;
+        margin-left: 81.5%;
+    }
+    .scroll{
+        overflow-x: hidden;
+    }
+    .moveing{
+        margin-top: 8%;
+      }
+      .home{
+          margin-left: 170%;
+          color: #1703f1;
+      }
+      .font{
+          margin-left: 8%;
+      }
+      .p1{
+          background-color: #3a89d3;
+          color: black
+      }
+        .red{
+            color: red;
+            margin-bottom: -1%;
+            font-size:90%;
+        }
+        .icon{
+            
+            margin-left: 4%;
+        }
+.a7{
+    margin-left: 4%;
+    margin-bottom: -2.5%;
+   
+}
